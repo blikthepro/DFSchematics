@@ -63,3 +63,8 @@ or contact me on Discord at `ryandev.`.
 ## Dependencies
 
 The program reads schematic files using [schematic4j](https://github.com/SandroHc/schematic4j).
+
+## Changes
+
+god help me
+-blik
